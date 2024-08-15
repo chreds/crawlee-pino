@@ -80,6 +80,6 @@
   },
   "peerDependencies": {
     "crawlee": "^3",
-    "pino": "^8"
+    "pino": "^8 || ^9"
   }
 }
